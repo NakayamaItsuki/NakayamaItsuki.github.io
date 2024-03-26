@@ -7,16 +7,16 @@
     
       {
         "title": "Hello World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "excerpt": "はじめての投稿\n",
+        "content": "はじめての投稿\n",
         "url": "/general/2018/08/22/hello-world/"
       },
     
       {
         "title": "Hello World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "url": "/general/2018/08/22/hello-world2/"
+        "excerpt": "2つ目の投稿\n",
+        "content": "2つ目の投稿\n",
+        "url": "/general/2020/01/01/test/"
       },
     
       {
