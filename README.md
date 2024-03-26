@@ -1,17 +1,28 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# My Homepage
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
-
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+<!-- markdownlint-disable-next-line -->
+This is a derivative of this [Alembic](https://github.com/daviddarnes/alembic)
+  <!-- markdownlint-disable-next-line -->
 
 
-# メモ：
+# メモ
+rubyのバージョンを確認
+```shell
 ruby -v
+```
+
+bashの設定を反映する
+```shell
 source ~/.bash_profile
+```
+
+ローカルで立ち上げる
+```shell
 bundle exec jekyll serve
+```
+
+# TODO
+カスタマイズしていく...
+
 _config.ymlをいじれば良いらしい．
 
