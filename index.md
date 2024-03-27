@@ -1,8 +1,8 @@
 ---
-title: 中山 樹 Itsuki Nakayama
+title: 中山 樹 
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Nakayama Itsuki
 ---
 
 There isn't much going on here yet, but watch this space
