@@ -21,6 +21,8 @@ source ~/.bash_profile
 bundle exec jekyll serve
 ```
 
+youtubeの動画，右クリックで統計情報→Video ID
+
 # TODO
 -カスタマイズしていく→_config.ymlをいじれば良いらしい．
 

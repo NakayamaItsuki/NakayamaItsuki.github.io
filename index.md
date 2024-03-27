@@ -2,11 +2,17 @@
 title: 中山 樹 
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Nakayama Itsuki
+  ## My Homepage
 ---
 
-There isn't much going on here yet, but watch this space
+Nakayama Itsuki
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+こんにちは
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/NakayamaItsuki" color="#0366d6" %} {% include button.html text="ブクログ 📕" link="https://booklog.jp/users/snooipynb" color="#f68140" %} {% include button.html text="Filmarks 🎬" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
+{% include button.html text="GitHub" icon="github" link="https://github.com/NakayamaItsuki" color="#0366d6" %} {% include button.html text="ブクログ 📕" link="https://booklog.jp/users/snooipynb" color="#f68140" %} {% include button.html text="Filmarks 🎬" link="https://filmarks.com/users/snoo_ipynb" color="#FFDA44" %} {% include button.html text="twitter" icon="twitter" link="https://twitter.com/Snoo_ipynb" color="#0d94e7" %} {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/樹-中山-a687902a6" color="#0d94e7" %}
+
+好きな動画を載せておきます．
+{% include video.html id="yzbVrl5LLG0" %}
+
+
+
