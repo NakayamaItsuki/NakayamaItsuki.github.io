@@ -25,6 +25,11 @@ youtubeの動画，右クリックで統計情報→Video ID
 
 画像アップローダ：[h3zjp Media Uploader](https://ul.h3z.jp/)
 
+<b> 太字 </b>
+
+
+
+
 # TODO
 -カスタマイズしていく→_config.ymlをいじれば良いらしい．
 
@@ -34,6 +39,7 @@ youtubeの動画，右クリックで統計情報→Video ID
 - 興味
 - 読んだ本，読みたい本
 - 見た映画，見たい映画
+- 能力
 
 etc...
 
