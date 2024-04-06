@@ -8,7 +8,7 @@ Itsuki Nakayama
 
 <h3> 所属 / Affiliation </h3>
 
-大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座 鬼塚研究室
+大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座 [鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/)
 
 <h3> 興味 / Interests </h3>
 
@@ -49,4 +49,11 @@ Itsuki Nakayama
 
 <h3> 資格 / Certification </h3>
 
-- 2023.12: 基本情報技術者
+- 基本情報技術者
+
+<h3> 趣味 / Hobbies </h3>
+
+{% include button.html text="ブクログ 📕" link="https://booklog.jp/users/snooipynb" color="#f68140" %} {% include button.html text="Filmarks 🎬" link="https://filmarks.com/users/snoo_ipynb" color="#FFDA44" %} 
+
+- 文字数をカウントするツール→[リンク](https://nakayamaitsuki.github.io/string_length_counter)
+- Unityroom→[リンク](https://unityroom.com/users/goromanji)
