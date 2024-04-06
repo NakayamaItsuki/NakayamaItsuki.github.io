@@ -22,7 +22,7 @@ Itsuki Nakayama
 
 <span style="font-family: Noto Sans JP, sans-serif; font-size: 16px;">
 〒565-0871 大阪府吹田市山田丘1-5 大阪大学 情報科学研究科 鬼塚研究室情報科学研究科C棟C701室<br>
-研究室HP：[ビッグデータ工学講座 鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)<br>
+研究室HP：ビッグデータ工学講座 [鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)<br>
 E-mail：nakayama.itsuki[at]ist.osaka-u.ac.jp
 </span>
 

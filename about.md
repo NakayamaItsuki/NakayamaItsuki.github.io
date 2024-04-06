@@ -8,7 +8,7 @@ Itsuki Nakayama
 
 <h3> 所属 / Affiliation </h3>
 
-大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座 [鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/)
+大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座 [鬼塚研究室](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)
 
 <h3> 興味 / Interests </h3>
 
