@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-06T20:35:11+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nakayama Itsuki</title><subtitle></subtitle><entry><title type="html">今年度，頑張りたいこと</title><link href="http://localhost:4000/others/2024/04/01/post/" rel="alternate" type="text/html" title="今年度，頑張りたいこと" /><published>2024-04-01T00:00:00+09:00</published><updated>2024-04-01T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/04/01/post</id><content type="html" xml:base="http://localhost:4000/others/2024/04/01/post/"><![CDATA[<p>思いついた順に適当に書く</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-22T01:46:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nakayama Itsuki</title><subtitle></subtitle><entry><title type="html">応用情報技術者試験を受けた．</title><link href="http://localhost:4000/others/2024/04/21/post/" rel="alternate" type="text/html" title="応用情報技術者試験を受けた．" /><published>2024-04-21T00:00:00+09:00</published><updated>2024-04-21T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/04/21/post</id><content type="html" xml:base="http://localhost:4000/others/2024/04/21/post/"><![CDATA[<h3 id="結果">結果</h3>
+<p>ざっくりとした自己採点</p>
+<ul>
+  <li>午前：82.5点/100点</li>
+  <li>午後：70点/100点（記述の採点の厳しさと配点で結構変わりそう）</li>
+</ul>
+
+<p>午後に記述があるため，合否および正確な点数は7月上旬です．</p>
+
+<h4 id="午後に解いた問題と予想点数">午後に解いた問題と予想点数</h4>
+<ul>
+  <li>問1 情報セキュリティ 10/20 … 用語と記述を間違えてショック．</li>
+  <li>問3 プログラミング 20/20 … ダイクストラだったのでラッキー</li>
+  <li>問4 システムアーキテクチャ 12/20 … 記述でミスってそうですが，大体は解けました．</li>
+  <li>問7 組み込みシステム開発 20/20 … コーヒーマシンのシステムが対象でしたが，研究室にマシンがあったため取り組みやすかったです，はい．</li>
+  <li>問11 システム監査 8/20 … ネットワークやデータベースがめんどくさそうだったので選んだが無惨な結果に．安易に手を出すべきじゃなかった．</li>
+</ul>
+
+<h3 id="すゝめ">すゝめ</h3>
+<p>情報系の院試を受けたら応用情報を受けてみても良いと思ます．</p>
+
+<ul>
+  <li>
+    <p>基本情報もそうですが．試験はテクノロジ系，マネジメント系，ストラテジ系に別れています．
+その中で最も出題数が多いテクノロジ系は情報系の学生なら大体解けます，といってもノー勉だと厳しく多少の暗記が必要です，</p>
+  </li>
+  <li>
+    <p>午前に関しては参考書をしっかり読み込めば6割取れると思います．</p>
+  </li>
+  <li>
+    <p>午後は過去問を数年分解けば良いて傾向を掴むのが大事だと思います，参考書を追加で買う必要ないでしょう．</p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="others" /><summary type="html"><![CDATA[結果 ざっくりとした自己採点 午前：82.5点/100点 午後：70点/100点（記述の採点の厳しさと配点で結構変わりそう）]]></summary></entry><entry><title type="html">今年度，頑張りたいこと</title><link href="http://localhost:4000/others/2024/04/01/post/" rel="alternate" type="text/html" title="今年度，頑張りたいこと" /><published>2024-04-01T00:00:00+09:00</published><updated>2024-04-01T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/04/01/post</id><content type="html" xml:base="http://localhost:4000/others/2024/04/01/post/"><![CDATA[<p>思いついた順に適当に書く</p>
 <ul>
   <li>わからないことを人に聞く…どうしても一人で考え込んでしまうので，質問を気軽にできるようになりたい．</li>
   <li>研究室に何かしらの貢献…学会に参加したらニュースに載せたい，輪講資料は誰でも見れるように公開したい，slackを活発化させたい（雑談，知見の共有）．</li>
