@@ -71,3 +71,7 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+fonts:
+  - url: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+    name: "Roboto"

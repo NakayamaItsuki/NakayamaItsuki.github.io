@@ -1,19 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-22T01:46:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nakayama Itsuki</title><subtitle></subtitle><entry><title type="html">応用情報技術者試験を受けた．</title><link href="http://localhost:4000/others/2024/04/21/post/" rel="alternate" type="text/html" title="応用情報技術者試験を受けた．" /><published>2024-04-21T00:00:00+09:00</published><updated>2024-04-21T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/04/21/post</id><content type="html" xml:base="http://localhost:4000/others/2024/04/21/post/"><![CDATA[<h3 id="結果">結果</h3>
-<p>ざっくりとした自己採点</p>
-<ul>
-  <li>午前：82.5点/100点</li>
-  <li>午後：70点/100点（記述の採点の厳しさと配点で結構変わりそう）</li>
-</ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-11T21:56:57+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nakayama Itsuki</title><subtitle></subtitle><entry><title type="html">最近読んで良かった本</title><link href="http://localhost:4000/book/2024/08/10/post/" rel="alternate" type="text/html" title="最近読んで良かった本" /><published>2024-08-10T00:00:00+09:00</published><updated>2024-08-10T00:00:00+09:00</updated><id>http://localhost:4000/book/2024/08/10/post</id><content type="html" xml:base="http://localhost:4000/book/2024/08/10/post/"><![CDATA[<!-- フォントの指定 -->
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+</style>
 
-<p>午後に記述があるため，合否および正確な点数は7月上旬です．</p>
+<ul>
+  <li>
+    <p>LightGBM 予測モデル 実装ハンドブック <a href="https://www.shuwasystem.co.jp/book/9784798067612.html">リンク</a><br />
+  決定木や勾配ブースティングについて基礎から学べる．</p>
+
+    <p><br /></p>
+  </li>
+  <li>世界一流エンジニアの思考法 <a href="https://books.bunshun.jp/ud/book/num/9784163917689">リンク</a><br />
+  生産性を上げるために必要なマインドセットが学べる．<br />
+  個人的に大事だと思ったところ↓
+    <ul>
+      <li>一番重要な事だけにフォーカスせよ</li>
+      <li>相手が本当に欲しい情報は何か？を普段から意識せよ</li>
+      <li>あとで人に説明することを意識して話を聞くべし</li>
+      <li>時間を固定して，その中でアウトプットを最大化せよ</li>
+    </ul>
+
+    <p><br /></p>
+  </li>
+  <li>科学的根拠に基づく最高の勉強法 <a href="https://www.kadokawa.co.jp/product/322310000993/">リンク</a><br />
+  タイトル通り研究結果を基に勉強法の良し悪しを評価していて参考になります．
+  →qiitaに記事を投稿しました． <a href="https://qiita.com/snoo_py/items/5332ed9839063df6b19a">リンク</a></li>
+</ul>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">応用情報技術者試験の体験記</title><link href="http://localhost:4000/others/2024/08/01/post/" rel="alternate" type="text/html" title="応用情報技術者試験の体験記" /><published>2024-08-01T00:00:00+09:00</published><updated>2024-08-01T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/08/01/post</id><content type="html" xml:base="http://localhost:4000/others/2024/08/01/post/"><![CDATA[<!-- フォントの指定 -->
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+</style>
+
+<h3 id="結果">結果</h3>
+<ul>
+  <li>午前：78.75点/100点<br />
+    <ul>
+      <li>ストラテジ系	21.25/25点（85%）</li>
+      <li>マネジメント系	8.75/12.5点（70%）</li>
+      <li>テクノロジ系	48.75/62.5点（78%）</li>
+    </ul>
+  </li>
+  <li>午後：84点/100点</li>
+</ul>
 
 <h4 id="午後に解いた問題と予想点数">午後に解いた問題と予想点数</h4>
 <ul>
-  <li>問1 情報セキュリティ 10/20 … 用語と記述を間違えてショック．</li>
+  <li>問1 情報セキュリティ 16/20 … 用語と記述を間違えてショック．</li>
   <li>問3 プログラミング 20/20 … ダイクストラだったのでラッキー</li>
-  <li>問4 システムアーキテクチャ 12/20 … 記述でミスってそうですが，大体は解けました．</li>
+  <li>問4 システムアーキテクチャ 16/20 … 記述でミスってそうですが，大体は解けました．</li>
   <li>問7 組み込みシステム開発 20/20 … コーヒーマシンのシステムが対象でしたが，研究室にマシンがあったため取り組みやすかったです，はい．</li>
-  <li>問11 システム監査 8/20 … ネットワークやデータベースがめんどくさそうだったので選んだが無惨な結果に．安易に手を出すべきじゃなかった．</li>
+  <li>問11 システム監査 12/20 … ネットワークやデータベースがめんどくさそうだったので選んだがよくわからなかった．安易に手を出すべきじゃなかった．</li>
 </ul>
 
 <h3 id="すゝめ">すゝめ</h3>
@@ -28,173 +67,6 @@
     <p>午前に関しては参考書をしっかり読み込めば6割取れると思います．</p>
   </li>
   <li>
-    <p>午後は過去問を数年分解けば良いて傾向を掴むのが大事だと思います，参考書を追加で買う必要ないでしょう．</p>
+    <p>午後は過去問を数年分解いて傾向を掴むのが大事だと思います，午後用の参考書を追加で買う必要ないと思います．</p>
   </li>
-</ul>]]></content><author><name></name></author><category term="others" /><summary type="html"><![CDATA[結果 ざっくりとした自己採点 午前：82.5点/100点 午後：70点/100点（記述の採点の厳しさと配点で結構変わりそう）]]></summary></entry><entry><title type="html">今年度，頑張りたいこと</title><link href="http://localhost:4000/others/2024/04/01/post/" rel="alternate" type="text/html" title="今年度，頑張りたいこと" /><published>2024-04-01T00:00:00+09:00</published><updated>2024-04-01T00:00:00+09:00</updated><id>http://localhost:4000/others/2024/04/01/post</id><content type="html" xml:base="http://localhost:4000/others/2024/04/01/post/"><![CDATA[<p>思いついた順に適当に書く</p>
-<ul>
-  <li>わからないことを人に聞く…どうしても一人で考え込んでしまうので，質問を気軽にできるようになりたい．</li>
-  <li>研究室に何かしらの貢献…学会に参加したらニュースに載せたい，輪講資料は誰でも見れるように公開したい，slackを活発化させたい（雑談，知見の共有）．</li>
-  <li>タスク管理…やりたい順にやってしまうので，きちんとタスク管理をして，重要度順にやれるようにしたい．</li>
-  <li>運動…座ってばっかではダメ😭，走る習慣を付けたい．</li>
-  <li>研究，勉強…はい，もちろんです．</li>
-</ul>]]></content><author><name></name></author><category term="others" /><summary type="html"><![CDATA[思いついた順に適当に書く わからないことを人に聞く…どうしても一人で考え込んでしまうので，質問を気軽にできるようになりたい． 研究室に何かしらの貢献…学会に参加したらニュースに載せたい，輪講資料は誰でも見れるように公開したい，slackを活発化させたい（雑談，知見の共有）． タスク管理…やりたい順にやってしまうので，きちんとタスク管理をして，重要度順にやれるようにしたい． 運動…座ってばっかではダメ😭，走る習慣を付けたい． 研究，勉強…はい，もちろんです．]]></summary></entry><entry><title type="html">読書メモ：失敗の科学</title><link href="http://localhost:4000/reading_notes/2024/03/31/post/" rel="alternate" type="text/html" title="読書メモ：失敗の科学" /><published>2024-03-31T00:00:00+09:00</published><updated>2024-03-31T00:00:00+09:00</updated><id>http://localhost:4000/reading_notes/2024/03/31/post</id><content type="html" xml:base="http://localhost:4000/reading_notes/2024/03/31/post/"><![CDATA[<p>個人的に重要だと思ったところ</p>
-
-<!-- 
-### 第一章　失敗のマネジメント
-
-
-
-- 本書の目的：失敗のとらえ方を根本から覆し、仕事や日常生活で「究極のパフォーマンス」を引き出すこと．
-
-- クローズドループ
-    
-    「クローズド・ループ」とは、失敗や欠陥にかかわる情報が放置されたり曲解されたりして、進歩につながらない現象や状態
-    
-    医療業界はこちらに当てはまる．
-    
-
-- オープンループ
-    
-    「オープン・ループ」では、失敗は適切に対処され、学習の機会や進化がもたらされる。
-    
-    航空業界はこちらに当てはまる．
-    
-- フィードバックが無ければ，経験に意味がない
-    
-    「暗闇でゴルフの練習を続けて，上達するか？」
-    
-
-- ヒューマンエラーを防ぐには，起こらないシステムを．
-    
-    そして，失敗から学ぶシステムを．
-    
-
-### 第二章　人はウソを隠すのではなく信じ込む
-
-- 人は自分の過ちを認めるのが嫌い
-    
-    教祖の予言が外れても，信念を変えることなく，事実の「解釈」を変えてしまう．
-    
-
-- 認知的不協…自分の信念と事実とが矛盾している状態
-    
-    解決策
-    
-    1.自分の信念が間違っていたと認める…難しい
-    
-    2.事実をあるがままに受け入れず、自分に都合のいい解釈を付ける…これがダメ
-    
-    失敗によって失うものが多いほど，これに陥る．
-    
-
-- 確証バイアス
-    
-    自分が進んで失敗する意思がない限り，ほとんどの人は間違った仮説から抜け出せない．
-    
-
-### 第三章　単純化の罠から脱出せよ
-
-- 失敗から学ぶにはふたつの要素がある
-    - 適切なシステム
-    - マインドセット
-    
-- トップダウンとボトムダウン
-    
-    トップダウン…完璧(と思われるよう)な理論を組み立て，実行に移す
-    
-    ボトムダウン…実践で失敗や選択を繰り返して学びながら，戦略の方向性を見極める
-    
-    トップダウンではなく，ボトムダウンを行うべき．
-    
-    トップダウンで行ってしまう理由
-    
-    - ベッドルームでひたすら考え抜けば最適解を得られるという誤解
-    - 失敗への恐怖
-    
-    大量に試行錯誤＆フィードバックを行い，改善していくべき．
-    
-- ランダム化比較試験
-    
-    「○○をしなかったら、起こっていたかもしれないこと」は検証実験において「反事実」と言う．反事実の検証にランダム化比較試験が必要．
-    
-    何が効果的で何がそうでないのか，を明らかにする．
-    
-
-- 選択バイアス
-    
-    観察するサンプリング（抽出）された集団が、全体の様子を反映していない偏りのこと．
-    
-
-### 第四章　難問はまず切り刻め
-
-- マージナルゲイン
-    
-    大きな問題を細かく分割すること．
-    
-    「壮大な戦略を立てても、それだけでは何の意味もないと早いうちに気づきました。もっと小さなレベルで、何が有効で何がそうでないかを見極めることが必要です。たとえそれぞれのステップは小さくても、積み重なれば驚くほど大きくなります」
-    
-    成功は、創造と検証の複雑な相互作用によってもたらされるのだ
-    
-    最適化のループをひたすら回すべし
-    
-
-### 第五章　「犯人探し」バイアスとの闘い
-
-- 失敗に対する組織文化
-    - 「失敗は学習のチャンス」ととらえる組織文化…些細なミスも報告し，成長していく．
-    - 真っ先に非難が始まる環境…ミスを報告しなくなる．
-        
-        「処遇を判断する立場の人間を、スタッフは信頼しているか？」か重要．
-        
-
-- 我々の脳には一番単純で一番直感的な結論を出す傾向がある
-
-- 非難して良いことは1つもない
-
-### 第六章　究極の成果をもたらすマインドセット
-
-- 失敗はしても良いものではなく，欠かせないもの
-
-- マインドセット
-    - 固定型マインドセット…知識や才能は生まれ持ったもの，と考えること．
-    - 成長型マインドセット…努力によって，知識や才能を伸ばせるもの，と考えること．
-        
-        このマインドを持っていれば，ミスにしっかりと注目を向け，成長していく．
-        
-
-- 知力，体力よりも持久力（やり抜く力）が重要．
-
-- 日本で起業をする者が少ないのは，失敗に対する恐れが大きいから．
-    
-    一方，アメリカは真逆で，失敗に対する恐れが小さい．
-    
-    数学に関しては，この傾向が真逆になり，数学のレベルも真逆になる．
-    
-    つまり，マインドセット次第ということ．
-    
-
-### 終章　失敗と人類の進化
-
-- すべてを「失敗ありき」で設計せよ
-    
-    事前検死…あらかじめ失敗したと想定し，その原因を考察する．
-
-
--->]]></content><author><name></name></author><category term="Reading_Notes" /><summary type="html"><![CDATA[個人的に重要だと思ったところ]]></summary></entry><entry><title type="html">読書メモ：科学的根拠に基づく最高の勉強法</title><link href="http://localhost:4000/reading_notes/2024/03/31/post2/" rel="alternate" type="text/html" title="読書メモ：科学的根拠に基づく最高の勉強法" /><published>2024-03-31T00:00:00+09:00</published><updated>2024-03-31T00:00:00+09:00</updated><id>http://localhost:4000/reading_notes/2024/03/31/post2</id><content type="html" xml:base="http://localhost:4000/reading_notes/2024/03/31/post2/"><![CDATA[<h4 id="書籍情報">書籍情報</h4>
-<ul>
-  <li>タイトル：科学的根拠に基づく最高の勉強法</li>
-  <li>著者：安川康介
-→<a href="https://www.kadokawa.co.jp/product/322310000993/">出版社リンク</a></li>
-  <li>本の概要（紹介ページより引用）
-    <blockquote>
-      <p>医者である著者が、臨床医学という学問に膨大な時間を費やして勉強してきたから、わかったこと。人生の限られた時間で、やりたいこと、学ぶことが無限にある中、どのように効率的に勉強したら良いのかを、論文からひも解き、著者がどのように勉強してきたのか、実践方法まで大公開します。</p>
-    </blockquote>
-  </li>
-</ul>
-
-<figure class="figure  figure--center">
-  <img class="image" src="https://cdn.kdkw.jp/cover_1000/322310/322310000993.webp" alt="" width="400" height="200" />
-  
-</figure>
-
-<p>qiitaに投稿しました→<a href="https://qiita.com/snoo_py/items/5332ed9839063df6b19a">リンク</a></p>]]></content><author><name></name></author><category term="Reading_Notes" /><summary type="html"><![CDATA[書籍情報 タイトル：科学的根拠に基づく最高の勉強法 著者：安川康介 →出版社リンク 本の概要（紹介ページより引用） 医者である著者が、臨床医学という学問に膨大な時間を費やして勉強してきたから、わかったこと。人生の限られた時間で、やりたいこと、学ぶことが無限にある中、どのように効率的に勉強したら良いのかを、論文からひも解き、著者がどのように勉強してきたのか、実践方法まで大公開します。 qiitaに投稿しました→リンク]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="others" /><summary type="html"><![CDATA[]]></summary></entry></feed>

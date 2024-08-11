@@ -3,6 +3,14 @@ title: 中山樹
 
 ---
 
+<!-- フォントの指定 -->
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+</style>
+
+
 Itsuki Nakayama
 
 
@@ -16,11 +24,12 @@ Itsuki Nakayama
 
 - 知識蒸留，特にGNNからMLPへの知識蒸留
 
-- 対照学習，ネガティブサンプリング
-
 - 知識グラフ
 
-- 情報検索
+<!-- - 対照学習，ネガティブサンプリング -->
+
+
+<!-- - 情報検索 -->
 <!-- - 説明可能性 -->
 
 <h3> 略歴 / Education </h3>
@@ -62,3 +71,5 @@ Itsuki Nakayama
 
 - 文字数をカウントするツール→[リンク](https://nakayamaitsuki.github.io/string_length_counter)
 - Unityroom→[リンク](https://unityroom.com/users/goromanji)
+
+- 輪講資料，グラフニューラルネットワーク Chapter2 →[リンク](https://speakerdeck.com/snoo_py/gurahulun-jiang-gurahuniyurarunetutowaku-chapter2-zhun-bei)

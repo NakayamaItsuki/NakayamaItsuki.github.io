@@ -6,6 +6,13 @@ feature_text: |
 
 ---
 
+<!-- フォントの指定 -->
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+</style>
+
 Itsuki Nakayama
 
 リンク集<br>
