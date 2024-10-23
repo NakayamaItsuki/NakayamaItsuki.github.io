@@ -48,7 +48,7 @@ Itsuki Nakayama
 
 <h5> 査読なし / Non-refereed </h5>
 
-- 2024.03: <u>中山 樹</u>, 中西 宏和, 菊地 良将, 佐々木 勇和, 荒瀬 由紀, 鬼塚 真. グラフ深層学習を用いた類似特許検索の精度向上． 第16回データ工学と情報マネジメントに関するフォーラム．→ <!-- [pdf]() --> [発表スライド](https://drive.google.com/file/d/1zE8s9DEiq8AI7pf7XZoG8RONjvUFLVda/view?usp=sharing), [ポスター](https://drive.google.com/file/d/1qjrzgpG_kqRqEB6M_li-x8iJba9POnbV/view?usp=sharing)
+- 2024.03: <u>中山 樹</u>, 中西 宏和, 菊地 良将, 佐々木 勇和, 荒瀬 由紀, 鬼塚 真. グラフ深層学習を用いた類似特許検索の精度向上． 第16回データ工学と情報マネジメントに関するフォーラム．→ <!-- [pdf]() --> [発表スライド](https://drive.google.com/file/d/1Hujd6uSkedBZlI3LV_88Pt50sRg_UafN/view), [ポスター](https://drive.google.com/file/d/1qjrzgpG_kqRqEB6M_li-x8iJba9POnbV/view?usp=sharing)
 
 <h3> 受賞 / Awards </h3>
 
