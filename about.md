@@ -45,7 +45,7 @@ Itsuki Nakayama
 
 <h5> 査読あり / Refereed </h5>
 
-- 2025.3: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.
+- 2025.03: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.
 
 <h5> 査読なし / Non-refereed </h5>
 
