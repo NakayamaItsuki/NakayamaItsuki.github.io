@@ -26,6 +26,7 @@ Itsuki Nakayama
 
 - 知識グラフ
 
+
 <!-- - 対照学習，ネガティブサンプリング -->
 
 
@@ -44,7 +45,7 @@ Itsuki Nakayama
 
 <h5> 査読あり / Refereed </h5>
 
-- 😢
+- 2025.3: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.
 
 <h5> 査読なし / Non-refereed </h5>
 
@@ -63,7 +64,7 @@ Itsuki Nakayama
 <h3> 資格 / Certification </h3>
 
 - 基本情報技術者 (2023/12)
-- 応用情報技術者 (2024/04)
+- 応用情報技術者 (2024/07)
 
 <h3> 趣味 / Hobbies </h3>
 
