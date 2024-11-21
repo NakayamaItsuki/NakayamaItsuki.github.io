@@ -42,9 +42,12 @@ navigation_header:
 #   url: /blog/
 
 # Footer nav
+# navigation_footer:
+# - title: Back to top
+#   url: "#top"
 navigation_footer:
 - title: Back to top
-  url: "#top"
+  url: "javascript:window.scrollTo(0, 0);"
 
 # Collections
 collections:
