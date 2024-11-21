@@ -38,8 +38,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
 # Footer nav
 navigation_footer:
@@ -56,6 +56,7 @@ collections:
 
     # feature_image: "https://picsum.photos/2560/600?image=866"
     feature_image: "https://ul.h3z.jp/UttoptFW.jpg"
+
 
 # Collection settings
 defaults:
@@ -75,3 +76,7 @@ defaults:
 fonts:
   - url: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
     name: "Roboto"
+
+# Site favicon
+favicon: /favicon.ico
+apple_touch_icon: /apple-touch-icon.png

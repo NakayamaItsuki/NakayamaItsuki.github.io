@@ -45,7 +45,7 @@ Itsuki Nakayama
 
 <h5> 査読あり / Refereed </h5>
 
-- 2025.03: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.
+- 2025.03: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.→[コード](https://github.com/NakayamaItsuki/NAAM)
 
 <h5> 査読なし / Non-refereed </h5>
 
@@ -69,8 +69,10 @@ Itsuki Nakayama
 <h3> 趣味 / Hobbies </h3>
 
 {% include button.html text="ブクログ 📕" link="https://booklog.jp/users/snooipynb" color="#f68140" %} {% include button.html text="Filmarks 🎬" link="https://filmarks.com/users/snoo_ipynb" color="#FFDA44" %} 
-
-- 文字数をカウントするツール→[リンク](https://nakayamaitsuki.github.io/string_length_counter)
 - Unityroom→[リンク](https://unityroom.com/users/goromanji)
+
+<h3> おまけ / Others </h3>
+- "。"を"．"に "、"を"，"に変換するツール→[リンク](https://nakayamaitsuki.github.io/replace-punctuation/)
+- 文字数をカウントするツール→[リンク](https://nakayamaitsuki.github.io/moji-counter/)
 
 - 輪講資料，グラフニューラルネットワーク Chapter2 →[リンク](https://speakerdeck.com/snoo_py/gurahulun-jiang-gurahuniyurarunetutowaku-chapter2-zhun-bei)
