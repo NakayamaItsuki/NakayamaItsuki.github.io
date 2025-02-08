@@ -55,7 +55,11 @@ Itsuki Nakayama
 
 <h3> その他 / Misc </h3>
 
-- 😢
+- 2024.02: <u>中山 樹</u>, 分類情報と引用関係を活用したグラフ深層
+学習による類似特許検索の精度向上（卒業論文）．→ [論文](https://drive.google.com/file/d/12YrhJGm8Hgd5CGzaAE1e1m2fOoWb5Gc3/view?usp=drive_link)
+
+
+- 輪講資料，グラフニューラルネットワーク Chapter2 →[リンク](https://speakerdeck.com/snoo_py/gurahulun-jiang-gurahuniyurarunetutowaku-chapter2-zhun-bei)
 
 
 <h3> 資格 / Certification </h3>
@@ -73,4 +77,3 @@ Itsuki Nakayama
 - "。"を"．"に "、"を"，"に変換するツール→[リンク](https://nakayamaitsuki.github.io/replace-punctuation/)
 - 文字数をカウントするツール→[リンク](https://nakayamaitsuki.github.io/moji-counter/)
 
-- 輪講資料，グラフニューラルネットワーク Chapter2 →[リンク](https://speakerdeck.com/snoo_py/gurahulun-jiang-gurahuniyurarunetutowaku-chapter2-zhun-bei)
