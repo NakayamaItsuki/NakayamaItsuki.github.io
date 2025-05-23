@@ -16,8 +16,7 @@ feature_text: |
 Itsuki Nakayama
 
 リンク集<br>
-{% include button.html text="GitHub" icon="github" link="https://github.com/NakayamaItsuki" color="#2b2b2b" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/itsuki-nakayama-a687902a6/" color="#0a66c2" %} {% include button.html text="Wantedly" icon="link" link="https://www.wantedly.com/id/itsuki_nakayama_" color="#21BDDB" %} <br>
-{% include button.html text="twitter" icon="twitter" link="https://twitter.com/Snoo_ipynb" color="#0d94e7" %} {% include button.html text="Qiita ^•ω•^" link="https://qiita.com/snoo_py" color="#59bb0c" %}　
+{% include button.html text="GitHub" icon="github" link="https://github.com/NakayamaItsuki" color="#2b2b2b" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/itsuki-nakayama-a687902a6/" color="#0a66c2" %} <!-- {% include button.html text="Wantedly" icon="link" link="https://www.wantedly.com/id/itsuki_nakayama_" color="#21BDDB" %}  --> {% include button.html text="twitter" icon="twitter" link="https://twitter.com/Snoo_ipynb" color="#0d94e7" %} {% include button.html text="Qiita ^•ω•^" link="https://qiita.com/snoo_py" color="#59bb0c" %}　
 
 
 好きな動画を載せておきます．

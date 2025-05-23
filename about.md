@@ -31,8 +31,9 @@ Itsuki Nakayama
 <!-- - 説明可能性 -->
 
 <h3> 略歴 / Education </h3>
+<!-- 2026.4-  -->
 
-2024.04- 大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座
+2024.04-2026.03（予定） 大阪大学大学院 情報科学研究科 マルチメディア工学専攻 ビッグデータ工学講座
 
 2020.04-2024.03 大阪大学 工学部 電子情報工学科 情報システム工学コース
 
@@ -42,11 +43,14 @@ Itsuki Nakayama
 
 <h5> 査読あり / Refereed </h5>
 
-- 2025.03: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.→[コード](https://github.com/NakayamaItsuki/NAAM), [論文](https://drive.google.com/file/d/1Xkc70kY23vuR16RYqSzqJMvImiz9DlwP/view?usp=sharing)
+- 2025.03: <u> Itsuki Nakayama</u>, Makoto Onizuka. "NAAM: Node-Aware Attention Mechanism for Distilling GNNs-to-MLP" AAAI 2025: Student Abstract and Poster Program.→[コード](https://github.com/NakayamaItsuki/NAAM), [論文](https://ojs.aaai.org/index.php/AAAI/article/view/35278)
 
 <h5> 査読なし / Non-refereed </h5>
 
-- 2024.03: <u>中山 樹</u>, 中西 宏和, 菊地 良将, 佐々木 勇和, 荒瀬 由紀, 鬼塚 真. グラフ深層学習を用いた類似特許検索の精度向上． 第16回データ工学と情報マネジメントに関するフォーラム．→ <!-- [pdf]() --> [発表スライド](https://drive.google.com/file/d/1Hujd6uSkedBZlI3LV_88Pt50sRg_UafN/view), [ポスター](https://drive.google.com/file/d/1qjrzgpG_kqRqEB6M_li-x8iJba9POnbV/view?usp=sharing)
+- 2025.03: <u>中山 樹</u>, 鬼塚 真. 知識統合と信頼度推定を活用した複数GNNからMLPへの知識蒸留フレームワーク． 第17回データ工学と情報マネジメントに関するフォーラム．→ [論文](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/9D-01), [発表スライド](https://drive.google.com/file/d/1E51hno0zFEqkZ-lvobCVPzRfqeXjhhtY/view?usp=sharing), [ポスター](https://drive.google.com/file/d/1l7fQGcL6tgRBdOAXgwLdi1sP3t2KDL9F/view?usp=sharing)
+- 2025.03: 高橋 拓豊, <u>中山 樹</u>, 三谷 貴宏, 菊地 良将, 鬼塚 真. 有方向ラベルウォークを活用したグラフ深層学習の精度向上.  第17回データ工学と情報マネジメントに関するフォーラム．→ [論文](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/9D-04)
+- 2025.03: 菊地 良将, 高橋 拓豊, <u>中山 樹</u>, 三谷 貴宏, 鬼塚 真. 動的に変化するモチーフ遷移傾向を捉えた帰納的な時間グラフ生成手法.  第17回データ工学と情報マネジメントに関するフォーラム．→ [論文](https://pub.confit.atlas.jp/ja/event/deim2025/presentation/6D-01)
+- 2024.03: <u>中山 樹</u>, 中西 宏和, 菊地 良将, 佐々木 勇和, 荒瀬 由紀, 鬼塚 真. グラフ深層学習を用いた類似特許検索の精度向上． 第16回データ工学と情報マネジメントに関するフォーラム．→ [論文](https://confit.atlas.jp/guide/event/deim2024/subject/T2-B-4-02/advanced), [発表スライド](https://drive.google.com/file/d/1Hujd6uSkedBZlI3LV_88Pt50sRg_UafN/view), [ポスター](https://drive.google.com/file/d/1qjrzgpG_kqRqEB6M_li-x8iJba9POnbV/view?usp=sharing)
 
 <h3> 受賞 / Awards </h3>
 
@@ -55,11 +59,17 @@ Itsuki Nakayama
 
 <h3> その他 / Misc </h3>
 
-- 2024.02: <u>中山 樹</u>, 分類情報と引用関係を活用したグラフ深層
-学習による類似特許検索の精度向上（卒業論文）．→ [論文](https://drive.google.com/file/d/12YrhJGm8Hgd5CGzaAE1e1m2fOoWb5Gc3/view?usp=drive_link)
+- 2024.02: <u>中山 樹</u>, 分類情報と引用関係を活用したグラフ深層学習による類似特許検索の精度向上（卒業論文）．→ [論文](https://drive.google.com/file/d/12YrhJGm8Hgd5CGzaAE1e1m2fOoWb5Gc3/view?usp=drive_link)
 
 
-- 輪講資料，グラフニューラルネットワーク Chapter2 →[リンク](https://speakerdeck.com/snoo_py/gurahulun-jiang-gurahuniyurarunetutowaku-chapter2-zhun-bei)
+
+- 輪講資料，グラフニューラルネットワーク Chapter1 機械学習においてグラフを考える重要性
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/f049d18311b34e74b2e4c312e7579953" title="グラフ輪講（グラフニューラルネットワーク，Chapter1 機械学習においてグラフを考える重要性）" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+- 輪講資料，グラフニューラルネットワーク Chapter2 準備
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/eb1f98b802d84437bd1ad9ef0ee39154" title="グラフ輪講（グラフニューラルネットワーク，Chapter2 準備）" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+
+- 輪講資料，グラフニューラルネットワーク Chapter6 スペクトルグラフ理論
 
 
 <h3> 資格 / Certification </h3>
